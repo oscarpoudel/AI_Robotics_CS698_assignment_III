@@ -10,3 +10,4 @@
 ### Task_4: https://github.com/oscarpoudel/VSLAM_light
 
 ### Task_5: https://github.com/oscarpoudel/turtlebot-maze (updated repo with ros2 stella vslam and maze)
+  * video for task 5: https://drive.google.com/file/d/1I0yQw4vdvwNYtFG0TWdNK1pk-VV-CPgu/view?usp=sharing
